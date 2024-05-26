@@ -71,9 +71,6 @@ function nav(){
       pin:true
     }
   })
-  tl.to("#nav2",{
-    opacity:0,
-  },"hide")
   tl.to("#nav-part1",{
     opacity:0,
   },"hide")
